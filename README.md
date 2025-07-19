@@ -153,6 +153,17 @@ print(f"Decrypted: {decrypted}")
 - Recovery mode for incorrectly decrypted files (~90% recovery rate)
 - Error handling for invalid characters and malformed keys
 
+## ⚠️ Security Warning
+
+**IMPORTANT**: This encryption system is provided for educational and experimental purposes only. The author does not guarantee the security, reliability, or effectiveness of this encryption method against professional cryptographic attacks. 
+
+**Do NOT use this system for:**
+- Protecting sensitive, confidential, or critical data
+- Commercial or production environments
+- Any scenario where data security is paramount
+
+**Use at your own risk.** For serious encryption needs, please use well-established, peer-reviewed cryptographic standards and libraries.
+
 ## Requirements
 
 - Python 3.x
